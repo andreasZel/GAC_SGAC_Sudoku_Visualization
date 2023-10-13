@@ -1,15 +1,14 @@
 ## GAC SGAC Sudoku Visualization App
 A GAC SGAC solver visualization app. 
 It was created as a part of my thesis to display the execution of the algorithms in different real sudoku problems used as experimental data. 
-
+<br/><br/>
+You can view the actual thesis from [**Here**](https://dspace.uowm.gr/xmlui/handle/123456789/3158) 
 <br/>
-still in progress.
-<br/>
-- Choose the problem you want to solve from the menu
-- Choose the desired speer (left is faster and right is slower)
-- Click Solve! 
-<br/>
-<br/>
+<ol>
+<li>Choose the problem you want to solve from the menu </li> 
+<li>Choose the desired speer (left is faster and right is slower)</li> 
+<li> Click Solve! </li> 
+</ol>
   <table align="center">
       <thead>
           <tr>
@@ -22,4 +21,6 @@ still in progress.
           </tr>
       </tbody>
   </table>
+<br/>
+If the assigned variables are 81 the problem is solved. You can also see the number of values removed from the domain of the variables.   
 
