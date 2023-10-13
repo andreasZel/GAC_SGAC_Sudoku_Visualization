@@ -1,0 +1,2 @@
+C:\Users\antre\source\repos\WindowsProject1\Release\WindowsProject1.exe
+C:\Users\antre\source\repos\Sudoku_Visualizer\Release\WindowsProject1.exe
