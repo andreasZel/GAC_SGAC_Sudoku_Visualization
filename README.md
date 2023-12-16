@@ -1,6 +1,8 @@
 ## GAC SGAC Sudoku Visualization App
 A GAC SGAC solver visualization app. 
 It was created as a part of my thesis to display the execution of the algorithms in different real sudoku problems used as experimental data. 
+<br/>
+It is written in C for the backend and C++ for the frontend using the windows API.
 <br/><br/>
 You can view the actual thesis from [**Here**](https://dspace.uowm.gr/xmlui/handle/123456789/3158) 
 <br/>
